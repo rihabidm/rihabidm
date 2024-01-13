@@ -15,9 +15,7 @@ Hello, fellow data enthusiasts! I'm a second-year Data Science and Knowledge Eng
                     </p>
                     
                   ### Socials
-                  
-                  
-                <p align="left">
+   <p align="left">
                       <a href="https://www.github.com/rihabidm" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />

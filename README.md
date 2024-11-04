@@ -10,6 +10,13 @@ Hello! I'm a Senior Data Science and Knowledge Engineering student in Rabat.I ha
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I'm open to any professional opportunity within the field of data science, ML and AI.
 <p align="left">
+    <a href="https://www.linkedin.com/in/rihab-i-b67a61253" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+        </picture>
+    </a>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
     </a>
@@ -56,22 +63,16 @@ Hello! I'm a Senior Data Science and Knowledge Engineering student in Rabat.I ha
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
         </picture>
     </a>
-    <a href="https://www.linkedin.com/in/rihab-i-b67a61253" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-        </picture>
-    </a>
 </p>
 
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/rihabidm">
-    <img src="https://github-readme-stats.vercel.app/api?username=rihabidm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rihabidm's GitHub stats" />
-</a>
-<a href="http://www.github.com/rihabidm">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rihabidm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
+<a href="http://www.github.com/rihabidm">
+    <img src="https://github-readme-stats.vercel.app/api?username=rihabidm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rihabidm's GitHub stats" />
+</a>
+
 
 <b>Top Repositories</b>
 <div width="100%" align="center">

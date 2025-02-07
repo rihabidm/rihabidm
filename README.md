@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data scientist , Machine Learning, Deep Learning and Artificial Intelligence enthusiast
 -------------------------------------
 
-Hello! I'm a Senior Data Science and Knowledge Engineering student in Rabat.I have a keen interest in artificial intelligence, machine learning, and generative AI, and I'm currently diving deep into these fascinating fields. On my GitHub, you'll find a collection of my projects, experiments, and learnings as I work towards building a career in AI and ML.
+Hello! I'm a final year Data Science and Knowledge Engineering student.I have a keen interest in artificial intelligence, machine learning, and generative AI, and I'm currently diving deep into these fascinating fields. On my GitHub, you'll find a collection of my projects, experiments, and learnings as I work towards building a career in AI and ML.
 
 *   ✉️  You can contact me at [idmhandrihab@gmail.com](mailto:idmhandrihab@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
